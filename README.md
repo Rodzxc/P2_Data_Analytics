@@ -56,6 +56,9 @@ Las gráficas permiten apreciar que la mayoría de los accidentes son provocados
 
 ### Conclusión
 Interpolando la lista de aeronaves con más accidentes, las operadoras con más accidentes (Aeroflot,  U.S Air Force, United Air Lines y U.S. Army Air Force); se llega a la conclusión de que estas responden en parte a la cantidad de accidentes en los Estados Unidos y Rusia.
+
 Se mantienen marcadas tendencias a la baja en los últimos años, tanto a nivel mundial como en Estados Unidos y Rusia.
+
 El factor climático no es relevante en los accidentes de las aeronaves menos inestables como los helicópteros.  
+
 Por último, los objetivos propuestos para los KPIs develan que son históricamente difíciles de superar y sostener a lo largo de los años; y en los años más recientes, los valores no llegan a los objetivos.
