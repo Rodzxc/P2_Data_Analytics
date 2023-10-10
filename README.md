@@ -35,30 +35,27 @@ accidentes_aereos.pbix: Dashboard del proyecto, contiene 1 portada y 4 páginas 
 
 ### 1.País
 
-En la página País, se pueden observar los accidentes segmentados por país.  
-Se puede filtrar según el año, país, personas a bordo y la categoría de la aeronave.  
-Se brinda información acerca la cantidad de accidentes, un promedio de la tasa de supervivencia y del total de personas a bordo por vuelo.
+En la página País, se pueden observar los accidentes segmentados por país.<br>  
+Se puede filtrar según el año, país, personas a bordo y la categoría de la aeronave.<br>  
+Se brinda información acerca la cantidad de accidentes, un promedio de la tasa de supervivencia y del total de personas a bordo por vuelo.<br>
 Las diferentes gráficas permiten apreciar que Estados Unidos (USA) es el país con más cantidad de accidentes y con más fatalidades, seguida por Rusia.
 
 ### 2.Operador
 
-En la página Operador, se pueden observar los accidentes segmentados por operador/empresa.
-Se puede filtrar según el año, país, operador, personas a bordo y la categoría de la aeronave.
-Se brinda información acerca la cantidad de accidentes, un promedio de los pasajeros por vuelo y la tasa de supervivencia.
+En la página Operador, se pueden observar los accidentes segmentados por operador/empresa.<br>
+Se puede filtrar según el año, país, operador, personas a bordo y la categoría de la aeronave.<br>
+Se brinda información acerca la cantidad de accidentes, un promedio de los pasajeros por vuelo y la tasa de supervivencia.<br>
 Las gráficas permiten apreciar que Aeroflot es la empresa con más cantidad de accidentes, seguida por la fuerza aérea estadounidense (U.S. Air Force). Ademàs, otras operadoras de este paìs se encuentran dentro del Top 6. 
 
 ### 3.Aeronaves
 
-En la página Aeronave, se pueden observar los accidentes segmentados por aeronaves, tanto en su categoría (avión, helicòptero y globo dirigible) como en su tipo (marca / modelo).
-Se puede filtrar según el año, país, tipo, personas a bordo y la categoría de la aeronave.
-Se brinda información acerca la cantidad de accidentes, diferentes tipos de aeronaves y la tasa de supervivencia.
+En la página Aeronave, se pueden observar los accidentes segmentados por aeronaves, tanto en su categoría (avión, helicòptero y globo dirigible) como en su tipo (marca / modelo).<br>
+Se puede filtrar según el año, país, tipo, personas a bordo y la categoría de la aeronave.<br>
+Se brinda información acerca la cantidad de accidentes, diferentes tipos de aeronaves y la tasa de supervivencia.<br>
 Las gráficas permiten apreciar que la mayoría de los accidentes son provocados por aviones y una lista de aeronaves con más accidentes.
 
 ### Conclusión
-Interpolando la lista de aeronaves con más accidentes, las operadoras con más accidentes (Aeroflot,  U.S Air Force, United Air Lines y U.S. Army Air Force); se llega a la conclusión de que estas responden en parte a la cantidad de accidentes en los Estados Unidos y Rusia.
-
-Se mantienen marcadas tendencias a la baja en los últimos años, tanto a nivel mundial como en Estados Unidos y Rusia.
-
-El factor climático no es relevante en los accidentes de las aeronaves menos inestables como los helicópteros.  
-
+Interpolando la lista de aeronaves con más accidentes, las operadoras con más accidentes (Aeroflot,  U.S Air Force, United Air Lines y U.S. Army Air Force); se llega a la conclusión de que estas responden en parte a la cantidad de accidentes en los Estados Unidos y Rusia.<br>
+Se mantienen marcadas tendencias a la baja en los últimos años, tanto a nivel mundial como en Estados Unidos y Rusia.<br>
+El factor climático no es relevante en los accidentes de las aeronaves menos inestables como los helicópteros.<br>  
 Por último, los objetivos propuestos para los KPIs develan que son históricamente difíciles de superar y sostener a lo largo de los años; y en los años más recientes, los valores no llegan a los objetivos.
