@@ -5,7 +5,7 @@
 ¡Bienvenidos a mi proyecto individual de Data Analytics!
 
 ### Descripción del proyecto
-En este proyecto se asume el rol de un Data Analyst. cuyo trabajo es realizar un análisis sobre un dataset de accidentes aéreos, para posteriormente disponibilizar la información en un dashboard interactivo utilizando Power BI.
+En este proyecto se asume el rol de un Data Analyst cuyo trabajo es realizar un análisis sobre un dataset de accidentes aéreos, para posteriormente disponibilizar la información en un dashboard interactivo utilizando Power BI.
 
 ### Contexto
 
@@ -35,8 +35,8 @@ accidentes_aereos.pbix: Dashboard del proyecto, contiene 1 portada y 4 páginas 
 
 ### 1.País
 
-En la página País, se pueden observar los accidentes segmentados por país.
-Se puede filtrar según el año, país, personas a bordo y la categoría de la aeronave.
+En la página País, se pueden observar los accidentes segmentados por país.  
+Se puede filtrar según el año, país, personas a bordo y la categoría de la aeronave.  
 Se brinda información acerca la cantidad de accidentes, un promedio de la tasa de supervivencia y del total de personas a bordo por vuelo.
 Las diferentes gráficas permiten apreciar que Estados Unidos (USA) es el país con más cantidad de accidentes y con más fatalidades, seguida por Rusia.
 
