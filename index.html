@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="estilo_gds.css">
+    <title>Gestion de stock</title>
+</head>
+
+<body>
+    <!-- SECCION I N I C I O -->
+    <section id="inicio">
+        <div class="contenido">
+            <div class="clearfix"></div>
+            <div class="presentacion">
+                <h2>Gestión de stock</h2>
+                <!-- <p class="descripcion">breve análisis y métodos </p>         -->
+                <div class="column">
+                    <div class="col1">
+                        <h3>Objetivo</h3><br>
+                     <p>Desarrollar propuestas en torno a los productos mediante diferentes análisis y métodos</p>
+                 </div>
+                    <div class="col2">
+                        <h3>Resultados</h3><br>
+                        <p>Periodos de control en base a criterios ABC.</p> 
+                        <p>Visualización de los productos más vendidos.</p> 
+                        <p>Visualización de los productos que generan los mayores ingresos.</p> 
+                        <p>Influencia de los proveedores.</p> 
+                        <p>Reordenamiento del stock en los estantes.</p> 
+                        <p>Cantidad óptima de pedidos.</p> 
+                        <p>Simulación Monte Carlo de ingresos mensuales.</p> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECCION D E S A R R O L L O -->
+    <section id="celda1">
+        <div class="contenedor">
+            <p>
+                <iframe title="GestionDeStock" width="1220" height="710" src="https://app.powerbi.com/view?r=eyJrIjoiMTY3NTQ4YWYtOTU1OS00Yzk5LThmYjMtMjFkOTQwM2Y3MWZhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&amp;pageName=ReportSection" frameborder="0" allowfullscreen="true"></iframe>
+            </p>
+        </div>
+        <div class="text">
+            <h2>Análisis de Pareto:</h2><br>
+            <p>
+                Listado y gráficas para determinar un criterio tipo ABCD según las cantidades vendidas, los ingresos de ventas y los precios de los artículos en stock.
+            </p>
+        </div>
+    </section>
+    <section id="celda2">
+        <div class="contenedor">
+            <p>
+                <iframe title="GestionDeStock"  width="810" height="710"src="https://app.powerbi.com/view?r=eyJrIjoiZDQwNzNmN2UtYWVlOS00NzQwLWI1Y2EtZTE0OTRjYzIyNzQ4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowfullscreen="true"></iframe>
+            </p>
+        </div>
+        <div class="text">
+            <h2 >Nivel de incidencia:</h2><br>
+            <p>Matriz del impacto de los Proveedores y los artículos en el negocio, según cantidades vendidas e ingresos generados</p>
+        </div>
+    </section>
+    <section id="celda3">
+        <div class="contenedor">
+            <p>
+                <iframe title="GestionDeStock"  width="1220" height="710"src="https://app.powerbi.com/view?r=eyJrIjoiYmEwMGM0M2ItMjRiMS00NjdhLWIyMjMtNTIxZjRkNjM1MDNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowfullscreen="true"></iframe>
+            </p>
+        </div>
+        <div class="text">
+            <h2 >Ubicación del stock:</h2><br>
+            <p>Localización de los artículos en los estantes</p>
+        </div>
+    </section>
+    <section id="celda4">
+        <div class="contenedor">
+            <img class="image-1" width="500" height="500" src="img/Screenshot.jpg" alt="" >
+        </div>
+        <div class="text">
+            <h2 >Stock óptimo de compra:</h2><br>
+            <p>Cálculo simplificado del abastecimiento para la venta trimestral</p>
+        </div>
+    </section>
+     <section id="celda5">
+        <div class="contenedor1">
+            <img class="image-2"  width="60%" height="60%" src="img/Screenshot1.jpg" alt="" >
+        </div>
+        <div class="contenedor2">
+            <img class="image-3" width="500" height="500" src="img/Screenshot2.jpg" >
+        </div>
+        <div class="contenedor3">
+            <img class="image-4" width="450" height="300" src="img/Screenshot3.jpg" alt="" >
+        </div>
+        <div class="contenedor4">
+            <img class="image-5" width="100" height="100" src="img/Screenshot4.jpg" alt="" >
+        </div>
+        <div class="text">
+            <h2 >Pronóstico de ventas:</h2><br>
+            <p>Cálculo de ingresos del mes de Octubre utilizando simulación Monte Carlo.</p>
+            <p>El valor obtenido se compara con el verdadero.</p>
+            <p>Se verifica la normalidad de los datos mediante una prueba de Smirnov-Kolmogorov.</p>
+        </div>
+    </section>
+   
+    <!-- SECCION FOOTER -->
+    <footer>
+        <p>Todos los derechos reservados - 2023</p>
+        <div class="redes">
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram-square"></i></a>
+        </div>
+
+    </footer>
+
+    
+</body>
+
+</html>
