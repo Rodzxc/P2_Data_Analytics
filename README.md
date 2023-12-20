@@ -59,3 +59,18 @@ Interpolando la lista de aeronaves con más accidentes, las operadoras con más 
 Se mantienen marcadas tendencias a la baja en los últimos años, tanto a nivel mundial como en Estados Unidos y Rusia.<br>
 El factor climático no es relevante en los accidentes de las aeronaves menos inestables como los helicópteros. 
 Por último, los objetivos propuestos para los KPIs develan que son históricamente difíciles de superar y sostener a lo largo de los años; y en los años más recientes, los valores no llegan a los objetivos.
+
+
+<section id="celda1">
+        <div class="contenedor">
+            <p>
+                <iframe title="GestionDeStock" width="1220" height="710" src="https://app.powerbi.com/view?r=eyJrIjoiMTY3NTQ4YWYtOTU1OS00Yzk5LThmYjMtMjFkOTQwM2Y3MWZhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&amp;pageName=ReportSection" frameborder="0" allowfullscreen="true"></iframe>
+            </p>
+        </div>
+        <div class="text">
+            <h2>Análisis de Pareto:</h2><br>
+            <p>
+                Listado y gráficas para determinar un criterio tipo ABCD según las cantidades vendidas, los ingresos de ventas y los precios de los artículos en stock.
+            </p>
+        </div>
+    </section>
