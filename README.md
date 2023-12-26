@@ -11,7 +11,7 @@ Los riesgos asociados a las activiades aeronáuticas conllevan consecuencias que
 ### Objetivo
 
 - Realizar un análisis exploratorio de los datos en un notebook.
-- Realizar un # [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjZWVjNzEtNzg2Zi00YTFkLWI4NmMtM2ViMjc3NjZhOWViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection15723a553e111322fc88)
+- Realizar un [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjZWVjNzEtNzg2Zi00YTFkLWI4NmMtM2ViMjc3NjZhOWViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection15723a553e111322fc88)
  funcional y coherente con el storytelling.
 - Establecer conclusiones.
 - Graficar y medir 2 KPIs.
