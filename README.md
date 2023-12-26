@@ -27,13 +27,13 @@ Los riesgos asociados a las activiades aeronáuticas conllevan consecuencias que
 <img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/5bc5d507-e64a-48c2-b9bb-d3bd1b3bd26f" width="350">
 
 - Nube de palabras, palabras más repetidas en la descripción de los accidentes.
-<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b" width="600">
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b" width="700">
 
 - Evolución del % de sobrevivientes Anual - Aviones Comerciales.
-<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/0e553d17-6e7d-4d36-addf-06a7712bc1e8" width="600">
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/0e553d17-6e7d-4d36-addf-06a7712bc1e8" width="800">
 
 - Evolución Anual de los accidentes.
-<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/c75fe17e-66e2-47d4-86be-d475d66a722e" width="600">
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/c75fe17e-66e2-47d4-86be-d475d66a722e" width="800">
 
 ### Repote del análisis 
 #### 1.País
