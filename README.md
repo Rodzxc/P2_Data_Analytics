@@ -2,7 +2,7 @@
 
 ### Descripción del proyecto
 
-En este proyecto se asume el rol de un Data Analyst cuyo trabajo es realizar un análisis sobre un dataset de accidentes aéreos, para posteriormente disponibilizar la información en un dashboard interactivo utilizando Power BI.
+En este proyecto se asume el rol de un Data Analyst cuyo trabajo es realizar un análisis sobre un dataset de accidentes aéreos, para posteriormente disponibilizar la información en un [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjZWVjNzEtNzg2Zi00YTFkLWI4NmMtM2ViMjc3NjZhOWViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection15723a553e111322fc88) interactivo utilizando Power BI.
 
 ### Contexto
 
@@ -11,8 +11,7 @@ Los riesgos asociados a las activiades aeronáuticas conllevan consecuencias que
 ### Objetivo
 
 - Realizar un análisis exploratorio de los datos en un notebook.
-- Realizar un [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTNjZWVjNzEtNzg2Zi00YTFkLWI4NmMtM2ViMjc3NjZhOWViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection15723a553e111322fc88)
- funcional y coherente con el storytelling.
+- Realizar un dashboard funcional y coherente con el storytelling.
 - Establecer conclusiones.
 - Graficar y medir 2 KPIs.
   1. Evaluar la disminución de un 10% la tasa de fatalidad de la tripulación en los últimos 10 años, comparado a la década anterior.
@@ -21,20 +20,20 @@ Los riesgos asociados a las activiades aeronáuticas conllevan consecuencias que
 
 ### Análisis Exploratorio de Datos
 
-Nube de palabras, Paises con más accidentes.
-![Paises](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/4d58facf-7fa4-4fe6-b927-d3330b0d116c)
+- Nube de palabras, Paises con más accidentes.
+![Paises](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/4d58facf-7fa4-4fe6-b927-d3330b0d116c).
 
-Accidentes de indole militar.
-![military](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/5bc5d507-e64a-48c2-b9bb-d3bd1b3bd26f)
+- Accidentes de indole militar.
+![military](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/5bc5d507-e64a-48c2-b9bb-d3bd1b3bd26f).
 
-Nube de palabras, palabras más repetidas en la descripción de los accidentes.
-![Resumen](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b)
+- Nube de palabras, palabras más repetidas en la descripción de los accidentes.
+![Resumen](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b).
 
-Evolución del % de sobrevivientes Anual - Aviones Comerciales.
-![Promedio %Sobrev](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/0e553d17-6e7d-4d36-addf-06a7712bc1e8)
+- Evolución del % de sobrevivientes Anual - Aviones Comerciales.
+![Promedio %Sobrev](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/0e553d17-6e7d-4d36-addf-06a7712bc1e8).
 
-Evolución Anual de los accidentes.
-![cantidad de accidentes](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/c75fe17e-66e2-47d4-86be-d475d66a722e)
+- Evolución Anual de los accidentes.
+![cantidad de accidentes](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/c75fe17e-66e2-47d4-86be-d475d66a722e).
 
 ### Repote del análisis 
 #### 1.País
