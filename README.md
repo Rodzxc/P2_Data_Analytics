@@ -21,19 +21,19 @@ Los riesgos asociados a las activiades aeronáuticas conllevan consecuencias que
 ### Análisis Exploratorio de Datos
 
 - Nube de palabras, Paises con más accidentes.
-![Paises](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/4d58facf-7fa4-4fe6-b927-d3330b0d116c).
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/4d58facf-7fa4-4fe6-b927-d3330b0d116c" width="600">
 
 - Accidentes de indole militar.
 <img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/5bc5d507-e64a-48c2-b9bb-d3bd1b3bd26f" width="400">
 
 - Nube de palabras, palabras más repetidas en la descripción de los accidentes.
-![Resumen](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b).
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b" width="600">
 
 - Evolución del % de sobrevivientes Anual - Aviones Comerciales.
-![Promedio %Sobrev](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/0e553d17-6e7d-4d36-addf-06a7712bc1e8).
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/0e553d17-6e7d-4d36-addf-06a7712bc1e8" width="600">
 
 - Evolución Anual de los accidentes.
-![cantidad de accidentes](https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/c75fe17e-66e2-47d4-86be-d475d66a722e).
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/c75fe17e-66e2-47d4-86be-d475d66a722e" width="600">
 
 ### Repote del análisis 
 #### 1.País
