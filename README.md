@@ -21,10 +21,10 @@ Los riesgos asociados a las activiades aeronáuticas conllevan consecuencias que
 ### Análisis Exploratorio de Datos
 
 - Nube de palabras, Paises con más accidentes.
-<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/4d58facf-7fa4-4fe6-b927-d3330b0d116c" width="600">
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/4d58facf-7fa4-4fe6-b927-d3330b0d116c" width="800">
 
 - Accidentes de indole militar.
-<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/5bc5d507-e64a-48c2-b9bb-d3bd1b3bd26f" width="400">
+<img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/5bc5d507-e64a-48c2-b9bb-d3bd1b3bd26f" width="350">
 
 - Nube de palabras, palabras más repetidas en la descripción de los accidentes.
 <img src="https://github.com/Rodzxc/P2_Data_Analytics/assets/133074545/ba24a433-c590-4048-b160-872ff9e16e8b" width="600">
